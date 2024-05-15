@@ -1,4 +1,6 @@
 # 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
+## NAME:VESLIN ANISH A
+## REGISTER NO:212223240175
 ## AIM:
 To write a PYTHON program for socket for HTTP for web page upload and download
 
@@ -56,6 +58,7 @@ if __name__=="__main__":
 
 ```
 ## OUTPUT:
-![alt text](image.png)
+![Screenshot 2024-05-15 104433](https://github.com/veslin23000303/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/151148539/7504e1ff-01a1-4409-8f6e-fc14f36c9376)
+
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
